@@ -1,4 +1,4 @@
-# DataSciencePortfolio
+# Data Science Portfolio
 A collection of my data science coursework, projects, and professional development.
 
 Welcome to my data science portfolio. I am a student at CSU East Bay pursuing a Bs in data science.
